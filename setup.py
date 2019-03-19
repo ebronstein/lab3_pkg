@@ -4,7 +4,7 @@ Author: Chris Correa
 """
 from setuptools import setup
 
-setup(name='toppling',
+setup(name='lab3',
       version='0.1.0',
       description='EE 106B Turtlebot Lab code',
       author='Chris Correa',

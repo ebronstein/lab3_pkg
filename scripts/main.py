@@ -1,4 +1,4 @@
-#!/usr/bin/env python -W ignore::DeprecationWarning
+#!/usr/bin/env python
 """
 Starter code for EE106B Turtlebot Lab
 Author: Valmik Prabhu, Chris Correa
