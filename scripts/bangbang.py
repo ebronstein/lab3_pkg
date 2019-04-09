@@ -22,7 +22,7 @@ class BangBang(object):
             if rospy.is_shutdown():
                 self.cmd(0,0)
                 break
-            self.strafe()
+            self.turn(5, 1)
 
     def strafe(self):
         self.turn(1, 1)
